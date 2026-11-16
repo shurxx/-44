@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//правка1
 #include<Windows.h>
 //void main() {
 //	printf("main() start!\n");
