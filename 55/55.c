@@ -1,5 +1,7 @@
 #include<stdio.h>//правка1
 #include<Windows.h>
+//правка2
+//правка2
 //void main() {
 //	printf("main() start!\n");
 //
